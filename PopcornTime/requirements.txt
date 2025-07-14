@@ -1,0 +1,10 @@
+streamlit
+requests
+pandas
+scikit-learn
+numpy
+Pillow
+tmdbsimple
+
+fuzzywuzzy
+python-Levenshtein
